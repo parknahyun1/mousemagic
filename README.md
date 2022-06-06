@@ -1,1 +1,1 @@
-# mousemagic
+# mousemagic-line
